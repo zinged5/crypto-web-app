@@ -2,6 +2,10 @@ A simple crypto market web app where you can check out the latest crypto prices.
 You can use the API from Coin API or use the static response.json to see how the page looks.
 
 
+![image](https://github.com/zinged5/crypto-web-app/assets/33462258/9f776eee-929b-485b-ab59-6bf91bf38ef0)
+
+![image](https://github.com/zinged5/crypto-web-app/assets/33462258/69448402-75ba-46d2-97cc-731f89c9694b)
+
 
 
 # Getting Started with Create React App
