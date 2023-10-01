@@ -1,3 +1,9 @@
+A simple crypto market web app where you can check out the latest crypto prices. 
+You can use the API from Coin API or use the static response.json to see how the page looks.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
