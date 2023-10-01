@@ -1,0 +1,21 @@
+// Get a reference to the element where you want to render the HTML
+const container = document.getElementById('container');
+
+// Set the HTML content of the container element to the HTML code from Stocks.html
+container.innerHTML = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+            <title>Visualizing Data with Chart.js</title>
+    </head>
+    <body>
+     
+            <canvas id="myChart"></canvas>
+     
+            <script src="Stocks.js"></script>
+                    
+            </script>
+    </body>
+    </html>
+`;
